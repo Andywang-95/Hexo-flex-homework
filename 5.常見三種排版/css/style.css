@@ -1,0 +1,116 @@
+body {
+  background-color: #000;
+  padding-top: 50px;
+}
+
+.wrap {
+  width: 1413px;
+  margin: 0 auto;
+  padding: 72px 0;
+  background-color: #f5f5f5;
+}
+
+.container {
+  width: 1286px;
+  margin: 0 auto;
+  padding: 8px 0;
+  background-color: #fff;
+}
+
+section {
+  margin-bottom: 42px;
+  border-radius: 6px;
+  background-color: #EAF0ED;
+}
+
+.title {
+  color: #3F5D45;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.text {
+  color: #3F5D45;
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+.section1 {
+  padding: 24px 28px;
+}
+
+.box1 {
+  display: flex;
+  justify-content: space-between;
+}
+.box1-inside {
+  width: 386px;
+  display: flex;
+}
+.box1 .content {
+  padding: 8px 0;
+}
+.box1 .title {
+  margin-bottom: 16px;
+}
+
+.pic1 {
+  width: 54px;
+  height: 54px;
+  margin-right: 12px;
+}
+
+.section2 {
+  padding: 12px 40px;
+}
+
+.box2 {
+  display: flex;
+  justify-content: space-between;
+}
+.box2-inside {
+  width: 354px;
+}
+.box2 .content {
+  padding: 8px 0;
+}
+.box2 .title {
+  text-align: center;
+  margin-bottom: 12px;
+}
+
+.pic2 {
+  margin: 0 auto;
+  width: 92px;
+  height: 92px;
+  margin-bottom: 12px;
+}
+
+.section3 {
+  padding: 12px 28px;
+  margin-bottom: 0;
+}
+
+.box3-inside {
+  display: flex;
+}
+.box3-inside .content {
+  padding: 40.5px 0;
+  width: 1007px;
+}
+.box3-inside .title {
+  margin-bottom: 12px;
+}
+
+.pic3 {
+  width: 135px;
+  height: 135px;
+  margin-right: 12px;
+}
+
+.r {
+  flex-direction: row-reverse;
+}
+.r .pic3 {
+  margin: 0 0 0 12px;
+}/*# sourceMappingURL=style.css.map */
